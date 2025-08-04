@@ -38,9 +38,13 @@ A user should be able to log in, which is necessary to enter the result of battl
 
 Admins should be able to create, update and delete users.
 
-## Campaign map management
+## Campaign Map Management
 
 Admins should be able to create, edit and delete (should we really allow this?) campaign maps. 
+
+## Region Management
+
+Admins should be able to create, edit and delete regions.
 
 ## Tile Management
 
